@@ -39,7 +39,7 @@ See what this PHP Lambda function looks like in your AWS console. Check out thes
 ## Copyright and License
 <br>
 
-lasallesoftware-serverless/ample-lambda-create-sns-topic-subscription is copyright © The South LaSalle Trading Corporation and
+lasallesoftware-serverless/sample-lambda-create-sns-topic-subscription is copyright © The South LaSalle Trading Corporation and
 licensed for use under the MIT License (MIT).
 
 Please see [LICENSE][] for more information.
