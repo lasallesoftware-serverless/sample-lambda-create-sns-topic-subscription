@@ -5,8 +5,8 @@
     "license": "MIT",
     "homepage": "https://phpserverlessproject.com",
     "support": {
-        "issues": "https://github.com/lasallesoftware-serverless/sample-lambda-hello-world/issues",
-        "source": "https://github.com/lasallesoftware-serverless/sample-lambda-hello-world"
+        "issues": "https://github.com/lasallesoftware-serverless/sample-lambda-create-sns-topic-subscription/issues",
+        "source": "https://github.com/lasallesoftware-serverless/sample-lambda-create-sns-topic-subscription"
     },
     "authors": [
         {
